@@ -32,7 +32,8 @@
             "policy_premium_amt":0,
             "cancellation_date":null,
             "global_yn":null,
-            "lob_id":"VA"
+            "lob_id":"VA",
+            "cars":[]
          },
          {
             "policy_id":2,
