@@ -1,205 +1,38 @@
-[
-   {
-      "userID":1,
-      "userName":"TestAdminUser",
-      "role":"Admin",
-      "email":"adminuser@jwsoftwareAPI.com",
-      "tier1":null,
-      "policies":[
-         {
-            "policy_id":1,
-            "branch_id":"branch1",
-            "tier1_company_id":"C00001",
-            "tier1_company_name":"Commonwealth",
-            "policy_num":1,
-            "primary_carrier_id":1,
-            "primary_carrier_name":1,
-            "policy_desc":1,
-            "deductible_amt":1,
-            "aggregate_limit_amt":1,
-            "primary_holder_name":"Carolina Salazar/CCC",
-            "secondary_holder_name":1,
-            "holder_address1":"Komitas 49",
-            "holder_address2":"Yeraz Business Center",
-            "holder_city":"Yerevan",
-            "holder_state":"Yerevan",
-            "holder_zip_code":"0042",
-            "holder_phone":"(877) 603 1310",
-            "holder_fax":"(877) 603 1310",
-            "replication_flag":null,
-            "policy_begin_date":"2013-05-18T00:00:00",
-            "policy_end_date":"2013-11-18T00:00:00",
-            "policy_premium_amt":0,
-            "cancellation_date":null,
-            "global_yn":null,
-            "lob_id":"VA",
-            "cars":[]
-         },
-         {
-            "policy_id":2,
-            "branch_id":2,
-            "tier1_company_id":"C00001",
-            "tier1_company_name":"Commonwealth",
-            "policy_num":2,
-            "primary_carrier_id":2,
-            "primary_carrier_name":2,
-            "policy_desc":2,
-            "deductible_amt":2,
-            "aggregate_limit_amt":2,
-            "primary_holder_name":"Miguel Burquez",
-            "secondary_holder_name":2,
-            "holder_address1":"Arshakunyan 2",
-            "holder_address2":"Baghramyan 26",
-            "holder_city":"Abovyan",
-            "holder_state":"Kotayk",
-            "holder_zip_code":"0002236",
-            "holder_phone":"(877) 603 1310",
-            "holder_fax":"(877) 603 1310",
-            "replication_flag":null,
-            "policy_begin_date":"2011-06-10T00:00:00",
-            "policy_end_date":"2014-11-18T00:00:00",
-            "policy_premium_amt":null,
-            "cancellation_date":null,
-            "global_yn":null,
-            "lob_id":"VA",
-            "cars":[
-               {
-                  "Name":"chevrolet chevelle malibu",
-                  "Miles_per_Gallon":18,
-                  "Cylinders":8,
-                  "Displacement":307,
-                  "Horsepower":130,
-                  "Weight_in_lbs":3504,
-                  "Acceleration":12,
-                  "Year":"1970-01-01",
-                  "Origin":"USA"
-               },
-               {
-                  "Name":"buick skylark 320",
-                  "Miles_per_Gallon":15,
-                  "Cylinders":8,
-                  "Displacement":350,
-                  "Horsepower":165,
-                  "Weight_in_lbs":3693,
-                  "Acceleration":11.5,
-                  "Year":"1970-01-01",
-                  "Origin":"USA"
-               }
-            ]
-         }
-      ]
-   },
-   {
-      "userID":2,
-      "userName":"TestClientUser",
-      "role":"Admin",
-      "email":"clientuser@jwsoftwareAPI.com",
-      "tier1":"C00001",
-      "policies":[
-         {
-            "policy_id":1,
-            "branch_id":"branch1",
-            "tier1_company_id":"C00001",
-            "tier1_company_name":"Commonwealth",
-            "policy_num":1,
-            "primary_carrier_id":1,
-            "primary_carrier_name":1,
-            "policy_desc":1,
-            "deductible_amt":1,
-            "aggregate_limit_amt":1,
-            "primary_holder_name":"Carolina Salazar/CCC",
-            "secondary_holder_name":1,
-            "holder_address1":"Komitas 49",
-            "holder_address2":"Yeraz Business Center",
-            "holder_city":"Yerevan",
-            "holder_state":"Yerevan",
-            "holder_zip_code":"0042",
-            "holder_phone":"(877) 603 1310",
-            "holder_fax":"(877) 603 1310",
-            "replication_flag":null,
-            "policy_begin_date":"2013-05-18T00:00:00",
-            "policy_end_date":"2013-11-18T00:00:00",
-            "policy_premium_amt":0,
-            "cancellation_date":null,
-            "global_yn":null,
-            "lob_id":"VA",
-            "cars":[
-               {
-                  "Name":"amc ambassador dpl",
-                  "Miles_per_Gallon":15,
-                  "Cylinders":8,
-                  "Displacement":390,
-                  "Horsepower":190,
-                  "Weight_in_lbs":3850,
-                  "Acceleration":8.5,
-                  "Year":"1970-01-01",
-                  "Origin":"USA"
-               },
-               {
-                  "Name":"citroen ds-21 pallas",
-                  "Miles_per_Gallon":null,
-                  "Cylinders":4,
-                  "Displacement":133,
-                  "Horsepower":115,
-                  "Weight_in_lbs":3090,
-                  "Acceleration":17.5,
-                  "Year":"1970-01-01",
-                  "Origin":"Europe"
-               }
-            ]
-         },
-         {
-            "policy_id":2,
-            "branch_id":2,
-            "tier1_company_id":"C00001",
-            "tier1_company_name":"Commonwealth",
-            "policy_num":2,
-            "primary_carrier_id":2,
-            "primary_carrier_name":2,
-            "policy_desc":2,
-            "deductible_amt":2,
-            "aggregate_limit_amt":2,
-            "primary_holder_name":"Miguel Burquez",
-            "secondary_holder_name":2,
-            "holder_address1":"Arshakunyan 2",
-            "holder_address2":"Baghramyan 26",
-            "holder_city":"Abovyan",
-            "holder_state":"Kotayk",
-            "holder_zip_code":"0002236",
-            "holder_phone":"(877) 603 1310",
-            "holder_fax":"(877) 603 1310",
-            "replication_flag":null,
-            "policy_begin_date":"2011-06-10T00:00:00",
-            "policy_end_date":"2014-11-18T00:00:00",
-            "policy_premium_amt":null,
-            "cancellation_date":null,
-            "global_yn":null,
-            "lob_id":"VA",
-            "cars":[
-               {
-                  "Name":"ford galaxie 500",
-                  "Miles_per_Gallon":15,
-                  "Cylinders":8,
-                  "Displacement":429,
-                  "Horsepower":198,
-                  "Weight_in_lbs":4341,
-                  "Acceleration":10,
-                  "Year":"1970-01-01",
-                  "Origin":"USA"
-               },
-               {
-                  "Name":"chevrolet impala",
-                  "Miles_per_Gallon":14,
-                  "Cylinders":8,
-                  "Displacement":454,
-                  "Horsepower":220,
-                  "Weight_in_lbs":4354,
-                  "Acceleration":9,
-                  "Year":"1970-01-01",
-                  "Origin":"USA"
-               }
-            ]
-         }
-      ]
-   }
-]
+{
+    "quiz": {
+        "sport": {
+            "q1": {
+                "question": "Which one is correct team name in NBA?",
+                "options": [
+                    "New York Bulls",
+                    "Los Angeles Kings",
+                    "Golden State Warriros",
+                    "Huston Rocket"
+                ],
+                "answer": "Huston Rocket"
+            }
+        },
+        "maths": {
+            "q1": {
+                "question": "5 + 7 = ?",
+                "options": [
+                    "10",
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "answer": "12"
+            },
+            "q2": {
+                "question": "12 - 8 = ?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "answer": "4"
+            }
+        }
+    }
+}
