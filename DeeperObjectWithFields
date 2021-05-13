@@ -6,8 +6,8 @@
       "deep3field1": "asdasd",
       "deep3 2field2": "dsadsa",
       "deep3 object3": {
-        "deep3 field1": "asdasd",
-        "deep3 field2": "dsadsa"
+        "deep4 field1": "asdasd",
+        "deep4 field2": "dsadsa"
       }
     }
   },
