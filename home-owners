@@ -76,17 +76,7 @@
     }, {
       "name" : "Deductible",
       "value" : "$250 AP / $1,000 Hail/Wind"
-    }, {
-      "name" : "Golf Cart Physical Damage and Liability",
-      "value" : "2 Golf Carts",
-      "golfCarts" : [ {
-        "golfCartYear" : 2014,
-        "golfCartMake" : "TEST MAKE 914",
-        "golfCartModel" : "TEST MODEL 345",
-        "golfCartSerialOrVin" : "21VCB87532C84101",
-        "golfCartValue" : 576
-      } ]
-    }, {
+    },  {
       "name" : "Home Computers",
       "value" : "$1,000"
     }, {
@@ -107,6 +97,16 @@
     }, {
       "name" : "Jewelry, Watches and Furs",
       "value" : "$1,000"
+    },{
+      "name" : "Golf Cart Physical Damage and Liability",
+      "value" : "2 Golf Carts",
+      "golfCarts" : [ {
+        "golfCartYear" : 2014,
+        "golfCartMake" : "TEST MAKE 914",
+        "golfCartModel" : "TEST MODEL 345",
+        "golfCartSerialOrVin" : "21VCB87532C84101",
+        "golfCartValue" : 576
+      } ]
     }, {
       "name" : "Service Line",
       "value" : "NO"
