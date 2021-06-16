@@ -1,46 +1,5 @@
 {
-  "state":"AZ",
-  "agencyLocation":{
-    "agency":{
-      "agencyName":"COMMONWEALTH CASUALTY COMPANY",
-      "agencyCode":"001"
-    },
-    "mailingAddress":{
-      "streetAddress":"2500 N 24TH ST",
-      "city":"PHOENIX",
-      "state":"AZ",
-      "zipCode":"85008-1842"
-    },
-    "agencyLocationName":"azz001"
-  },
-  "coverages":[
-    
-  ],
-  "policyNumber":"AZH10567779",
-  "policyDate":"2021-03-01T19:00Z",
-  "effectiveDate":"2021-03-01T19:00Z",
-  "expirationDate":"2022-03-01T19:00Z",
-  "policyTerm":"12 Months",
-  "policyStatus":"Active",
-  "communication":{
-    "mailingAddress":{
-      "streetAddress":"2500 North 24th Street STE 100",
-      "city":"Phoenix",
-      "state":"AZ",
-      "zipCode":"85008"
-    },
-    "homePhone":"8888888888",
-    "email":"supertest@hellotestdomain.org"
-  },
-  "insured":[
-    {
-      "firstName":"Kris",
-      "middleName":"Paul",
-      "lastName":"Evans",
-      "dateOfBirth":"1982-04-21",
-      "relationship":"Insured"
-    }
-  ],
+
   "properties":[
     {
       "coverages":[
@@ -107,20 +66,5 @@
         "zipCode":"85008"
       }
     }
-  ],
-  "questions":[
-    {
-      "question":"Does the applicant have an active mobile home policy with commonwealth?",
-      "answer":"Yes"
-    },
-    {
-      "question":"Does the home have an operating fire alarm system?",
-      "answer":"Yes"
-    },
-    {
-      "question":"Does the home have a complete home sprinkler system?",
-      "answer":"Yes"
-    }
-  ],
-  "timezone":"America/Phoenix"
+  ]
 }
