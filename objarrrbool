@@ -1,0 +1,8 @@
+{
+	"isTrue": true,
+	"isFalse": false,
+	"someText": "blablabla",
+	"array": [{
+		"text": "text"
+	}]
+}
