@@ -1,0 +1,29 @@
+{
+  "primitiveArray":[
+    "text1",
+    "text2",
+    "text3"
+  ],
+  "number":123,
+  "stringType":"firstString",
+  "array with objects":[
+    {
+      "id":1,
+      "name":"first",
+      "age":25
+    },
+    {
+      "id":2,
+      "name":"second",
+      "age":52
+    },
+    {
+      "id":3,
+      "name":"third",
+      "age":33
+    }
+  ],
+  "booleanTrue":true,
+  "booleanFalse":false,
+  "dateWillBeLater":"1980/10/15"
+}
