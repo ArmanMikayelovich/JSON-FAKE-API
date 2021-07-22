@@ -1,6 +1,28 @@
 {
-"obj1: {
-          "field1:"text",
-          "array1": [{"field1":"text", "array1": [{"field1":"text","date":"07/25/2022"},{"field1":"text"},{"field1":"text"}]},{"field1":"text"},{"field1":"text"}]
+  "obj1":{
+    "field1":"text",
+    "array1":[
+      {
+        "field1":"text",
+        "array1":[
+          {
+            "field1":"text",
+            "date":"07/25/2022"
+          },
+          {
+            "field1":"text"
+          },
+          {
+            "field1":"text"
+          }
+        ]
+      },
+      {
+        "field1":"text"
+      },
+      {
+        "field1":"text"
       }
+    ]
+  }
 }
