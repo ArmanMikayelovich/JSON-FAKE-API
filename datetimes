@@ -35,6 +35,6 @@
   "dd HH:mm:ss.s":"09 11:04:14.14",
   "MMM yyyy":"Mar 1999",
   "MMMM yyyy":"March 2016",
-  "MM-yyyy":"06/2010",
+  "MM-yyyy":"06-2010",
   "MM/yyyy":"11/2012"
 }
