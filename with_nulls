@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "status": "ACTIVE",
+    "balance": 3026.1,
+    "name": "Taylor Owen",
+    "email": "taylorowen@callflex.com"
+  },
+  {
+    "id": "2",
+    "status": "ACTIVE",
+    "balance": null,
+    "name": "Ellen Mathews",
+    "email": "ellenmathews@callflex.com"
+  },
+  {
+    "id": "3",
+    "status": "ACTIVE",
+    "balance":null,
+    "name": "Henrietta Pittman",
+    "email": "henriettapittman@callflex.com"
+  },
+  {
+    "id": "4",
+    "status": "ACTIVE",
+    "balance": 1546.61,
+    "name": "Estella Everett",
+    "email": "estellaeverett@callflex.com"
+  },
+  {
+    "id": "5",
+    "status": "ACTIVE",
+    "balance": 1816.45,
+    "name": "Mendez Bradley",
+    "email": "mendezbradley@callflex.com"
+  },
+  {
+    "id": "6",
+    "status": "INACTIVE",
+    "balance": 3911.43,
+    "name": "Fran Cardenas",
+    "email": "francardenas@callflex.com"
+  },
+  {
+    "id": "7",
+    "status": "INACTIVE",
+    "balance": 2177.3,
+    "name": "Christensen Buck",
+    "email": "christensenbuck@callflex.com"
+  },
+  {
+    "id": "8",
+    "status": "INACTIVE",
+    "balance": 3707.58,
+    "name": "Staci Boone",
+    "email": "staciboone@callflex.com"
+  }
+]
